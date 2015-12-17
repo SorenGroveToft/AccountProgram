@@ -1,0 +1,6 @@
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\bin\Debug\AccountProgram.exe.config
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\bin\Debug\AccountProgram.exe
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\bin\Debug\AccountProgram.pdb
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\obj\Debug\AccountProgram.csprojResolveAssemblyReference.cache
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\obj\Debug\AccountProgram.exe
+C:\Users\Sotof\Documents\Visual Studio 2015\Projects\AccountProgram\AccountProgram\obj\Debug\AccountProgram.pdb
